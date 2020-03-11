@@ -1,0 +1,5 @@
+XemoDll.bas und MBconst.bas 2.34
+
+/64bit: 2.37 (xemo64.lib)
+
+alle anderen: 2.40
